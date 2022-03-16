@@ -1,3 +1,4 @@
+# 项目说明
 项目中包含三个代码文件，其中facecheck.py是独立的人脸检测程序，可用于检测图片中人脸位置。
 
 train.py与face_recognize.py文件是人脸识别程序，train.py用于识别器的训练，
@@ -14,7 +15,9 @@ VideoTest1是test视频经过识别后生成的结果视频，由于文件过大
 
 face_recognize.pptx是视频识别的演示文件
 
+# requirements
 you can install all the requirements by executing below.
 
+```
 # in <path-to-this-repo>
 pip install -r requirements.txt
